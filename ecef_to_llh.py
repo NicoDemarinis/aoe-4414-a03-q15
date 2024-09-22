@@ -21,7 +21,7 @@ import math # math module
 import sys  # argv
 
 # "constants"
-R_E_KM = 6378.137
+R_E_KM = 6378.1363
 E_E    = 0.081819221456
 
 # helper functions
